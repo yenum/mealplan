@@ -1,0 +1,19 @@
+{
+  "name": "mealplan",
+  "version": "1.0.0",
+  "description": "Deciding what to eat can be a pain....\r Why not use a simple web application that helps with the guesswork.\r This web application's main use is to suggest meal ideas for breakfast, lunch and dinner- taking the guesswork out of deciding what to eat for the day. All the user needs to do is to google the name of the recipe to find the full recipe.\r The application is able to suggest ten meals for ten days , making it perfect for helping with meal prep.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yenum/mealplan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yenum/mealplan/issues"
+  },
+  "homepage": "https://github.com/yenum/mealplan#readme"
+}

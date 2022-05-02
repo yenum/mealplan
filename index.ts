@@ -69,7 +69,7 @@ meals.push.apply(meals, otherMeals);
 
 
 const btn = document.getElementById("btn");
-const display = document.querySelector(".display");
+const display = document.querySelector<HTMLElement>(".display");
 const reset = document.getElementById("reset")
 
 function createMeal(obj) {
